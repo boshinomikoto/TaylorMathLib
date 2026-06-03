@@ -27,7 +27,7 @@ Taylor/
 │
 ├── test.cpp                 # Example application
 ├── include/
-│   └── taylor.h             # Public interface
+│   └── taylor.hpp           # Public interface
 ├── lib/
 │   ├── libtaylor.a          # Linux static library
 │   └── taylor.lib           # Windows static library
