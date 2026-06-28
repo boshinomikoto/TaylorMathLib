@@ -50,11 +50,6 @@ int main()
 	std::cout << "power(3, 4)  = " << power(3, 4) << '\n';
 	std::cout << "power(10, 3) = " << power(10, 3) << '\n';
 
-	std::cout << "\n=============== POWER ==============\n";
-	std::cout << "power(2, 5)  = " << power(2, 5) << '\n';
-	std::cout << "power(3, 4)  = " << power(3, 4) << '\n';
-	std::cout << "power(10, 3) = " << power(10, 3) << '\n';
-
 	std::cout << "\n=============== FORMULAS ==============\n";
 	std::cout << "sin2(PI/16)      = " << sinnx((PI / 16) * 2) << '\n';
 	std::cout << "2sin(PI/16)cos(PI/16)   = " << 2 * sinnx(PI / 16) * cosnx(PI / 16) << '\n';
